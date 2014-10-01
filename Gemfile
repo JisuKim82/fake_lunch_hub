@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-gem 'rspec-rails'
-gem 'rails', '4.1.1'
-
+gem 'rspec', "~> 3.1.0"
+gem "rspec-rails"
+gem 'rails'
 gem 'rails-api'
 
 gem 'spring', :group => :development
